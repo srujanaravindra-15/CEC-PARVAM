@@ -4,6 +4,7 @@ int main() {
     int num;
     cout<<" enter a number: ";
     cin>>num;
-    cout<<"you entered: "<<num<<endl;
+    cout<<"you entered: "<<nu<<endl;
     return 0;
 }
+

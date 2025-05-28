@@ -12,7 +12,7 @@ public:
     student(const student &s)
     {
         size=s.size;
-        marks=new int[size];
+        marks=s.new int[size];
         for(int i=0;i<size;i++)
         {
             marks[i]=s.marks[i];
